@@ -114,8 +114,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-  [neural networks ex 5.pdf](https://github.com/maha712/Experiment-5-Implementation-of-XOR-using-RBF/files/13255721/neural.networks.ex.5.pdf)
 
+![Screenshot (5)](https://github.com/maha712/Experiment-5-Implementation-of-XOR-using-RBF/assets/121156360/097c2c61-127e-4edf-92eb-57498a6d398b)
 
 ## RESULT:
 
