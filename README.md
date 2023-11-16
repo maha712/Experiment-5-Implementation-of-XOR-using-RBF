@@ -121,10 +121,14 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ## OUTPUT :
 
-![Screenshot (5)](https://github.com/maha712/Experiment-5-Implementation-of-XOR-using-RBF/assets/121156360/097c2c61-127e-4edf-92eb-57498a6d398b)
+![n 5 1](https://github.com/maha712/Experiment-5-Implementation-of-XOR-using-RBF/assets/121156360/b6102886-413b-4e2f-bac3-f10b215e8267)
+
+![n 5 2](https://github.com/maha712/Experiment-5-Implementation-of-XOR-using-RBF/assets/121156360/3e7b5d91-3d15-4647-9f09-3481cb4b2579)
+
+![n 5 3](https://github.com/maha712/Experiment-5-Implementation-of-XOR-using-RBF/assets/121156360/8989df49-34e6-459b-aec1-987e650ace2d)
 
 ## RESULT:
-
+Thus,XOR is successfully implemeted using RBF.
 
 
 
